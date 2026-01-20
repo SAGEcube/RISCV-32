@@ -54,19 +54,4 @@ All arithmetic operations are **signed**, and logical operations are **bitwise**
 
 ---
 
-### 🟩 I-Type Instructions
-- `addi`
-- `andi`
-- `ori`
-- `slti` *(set less than immediate)*
-- `lw` *(load word)*
-
----
-
-### 🟨 S-Type Instructions
-- `sw` *(store word)*
-
----
-
-## 📁 Repository Structure
 
