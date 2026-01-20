@@ -1,0 +1,5 @@
+## Example Tcl Output Messages
+
+FAIL! memory[0] = 00000001  # Error message; only displays if result is invalid
+
+Number of correct test cases: 19  # Summary message
